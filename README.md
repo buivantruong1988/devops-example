@@ -17,4 +17,3 @@ Truongbv2
 Truongbv3
 
 e
-commit1
